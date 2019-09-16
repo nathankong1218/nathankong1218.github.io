@@ -1,4 +1,6 @@
 body { background-color: #F699CD;}
 #nav-table { width: 800px;}
 #nav-th {width: 200px; text-align:center;}
-p { font-family: "Arial";}
+p {
+  font-family: "Times New Roman", Times, serif;
+}
